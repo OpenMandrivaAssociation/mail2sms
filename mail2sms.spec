@@ -6,6 +6,7 @@ License:	GPL
 Group:		Networking/Other
 URL:		http://daniel.haxx.se/projects/mail2sms/
 Source:		http://daniel.haxx.se/projects/mail2sms/%{name}-%{version}.tar.bz2
+BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 mail2sms reads a (MIME) mail and converts it to a short message. It offers
