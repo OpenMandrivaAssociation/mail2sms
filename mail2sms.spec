@@ -1,7 +1,7 @@
 Summary:	Mail to SMS converter
 Name:		mail2sms
 Version:	1.3.5
-Release:	%mkrel 4
+Release:	%mkrel 5
 License:	GPL
 Group:		Networking/Other
 URL:		http://daniel.haxx.se/projects/mail2sms/
