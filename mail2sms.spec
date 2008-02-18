@@ -1,4 +1,4 @@
-Summary:	Mail2sms is a mail to sms converter
+Summary:	Mail to SMS converter
 Name:		mail2sms
 Version:	1.3.5
 Release:	%mkrel 4
