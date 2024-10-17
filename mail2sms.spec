@@ -4,7 +4,7 @@ Version:	1.3.5
 Release:	10
 License:	GPL
 Group:		Networking/Other
-URL:		http://daniel.haxx.se/projects/mail2sms/
+URL:		https://daniel.haxx.se/projects/mail2sms/
 Source:		http://daniel.haxx.se/projects/mail2sms/%{name}-%{version}.tar.gz
 
 %description
