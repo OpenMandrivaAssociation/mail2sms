@@ -7,6 +7,11 @@ Group:		Networking/Other
 URL:		https://daniel.haxx.se/projects/mail2sms/
 Source:		http://daniel.haxx.se/projects/mail2sms/%{name}-%{version}.tar.gz
 
+BuildRequires:	autoconf
+BuildRequires:	automake
+BuildRequires:	libtool-base
+BuildRequires:	slibtool
+BuildRequires:	make
 %description
 mail2sms reads a (MIME) mail and converts it to a short message. It offers
 search and replace, conditional rules, conditional search and replace etc to
